@@ -21,16 +21,20 @@ If you’re ready to enhance your technical skills, build industry-relevant proj
 
 We cover a broad range of modern technology stacks to equip you with in-demand skills:
 
-- **MERN (MongoDB, Express, React, Node.js)**
-- **Unity** (for Game Development)
-- **Flutter** (for Cross-Platform Mobile Development)
-- **React Native** (for Mobile Development)
-- **Java** (Backend and Enterprise Solutions)
-- **PHP** (Web Development)
-- **Python** (Data Science, Machine Learning, Web Development)
-- **.NET** (Enterprise and Application Development)
+| Icon                                                                 | Technology Stack                                               |
+|----------------------------------------------------------------------|--------------------------------------------------------------|
+| ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png)      | **MERN** (MongoDB, Express, React, Node.js)                 |
+| ![Unity](https://img.icons8.com/ios-filled/50/000000/unity.png)     | **Unity** (for Game Development)                             |
+| ![Flutter](https://img.icons8.com/color/48/000000/flutter.png)      | **Flutter** (for Cross-Platform Mobile Development)         |
+| ![React Native](https://img.icons8.com/office/40/000000/react.png)  | **React Native** (for Mobile Development)                   |
+| ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) | **Java** (Backend and Enterprise Solutions)                  |
+| ![PHP](https://img.icons8.com/officel/40/000000/php-logo.png)      | **PHP** (Web Development)                                   |
+| ![Python](https://img.icons8.com/color/48/000000/python.png)       | **Python** (Data Science, Machine Learning, Web Development) |
+| ![.NET](https://img.icons8.com/color/48/000000/net-framework.png)  | **.NET** (Enterprise and Application Development)            |
 
 ---
+
+
 
 ## Get Involved
 
