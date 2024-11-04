@@ -1,4 +1,4 @@
-# Welcome to Learnathon!
+![Welcome Banner](https://placehold.co/900x150/1B3765/ffffff?text=Welcome+to+Learnathon&font=roboto)
 
 [Learnathon Website](https://learnathon.geeky.solutions/) | [Geeky Solution](https://geeky.solutions/)
 
