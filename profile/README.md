@@ -11,7 +11,7 @@ Learnathon, a product of **Geeky Solution**, is dedicated to building a comprehe
 ## Who Can Attend?
 
 Learnathon is open to:
-- **3rd and 4th-year University students** in **IT, CS, CSE, or SE programs**.
+- **You can attend the Learnathon if you are planning to make a career in software industry. Please note that current job holders are not eligible to apply**.
 
 If you’re ready to enhance your technical skills, build industry-relevant projects, and receive guidance from seasoned mentors, Learnathon is for you!
 
